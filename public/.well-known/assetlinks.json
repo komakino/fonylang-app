@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "xyz.appmaker.utobhu",
+            "sha256_cert_fingerprints": [
+                "31:64:60:E3:4E:A3:23:FA:1A:DA:9C:B4:E0:6E:21:06:F5:60:8B:A2:55:21:90:AB:C8:81:CE:2B:FE:C2:D5:F0"
+            ]
+        }
+    }
+]
