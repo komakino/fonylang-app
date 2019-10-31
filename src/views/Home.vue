@@ -55,8 +55,7 @@ export default {
   components: {},
   data() {
     return {
-      phrase:
-        "Hej! Jag är en liten pojke som heter Salem och gillar räksmörgås.",
+      phrase: "Kalasfint!",
       options: [
         { value: Robber, text: "Rövarspråket" },
         { value: Fig, text: "Fikonspråket" },

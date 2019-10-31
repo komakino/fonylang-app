@@ -1,0 +1,19 @@
+{
+  "*": {
+    "exclude": [
+      "/.git",
+      "/.vscode",
+      "/node_modules",
+      ".gitignore",
+      "package.json",
+      "README.md"
+    ]
+  },
+  "lc2": {
+    "host": "lc2",
+    "user": "ubuntu",
+    "port": 22,
+    "dest": "/home/ubuntu/projects/fonylang/app/",
+    "src": "./dist"
+  }
+}
